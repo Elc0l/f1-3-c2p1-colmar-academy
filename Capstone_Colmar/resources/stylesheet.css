@@ -1,0 +1,153 @@
+.grid{
+  display:flex;
+}
+
+#topbanner{
+  height: 64px;
+}
+.logo{
+  padding-left: 24px;
+}
+.logo img{
+  padding-top: 15px;
+  width: 90px;
+}
+.logotext{
+  position: absolute;
+  left: 120px;
+  top: 50px;
+}
+.logo h1{
+  display: inline;
+  text-transform: uppercase;
+  font-size: 32px;
+  font-weight: 700;
+
+}
+.logo h2{
+  color: lightgrey;
+  display: inline;
+  text-transform: uppercase;
+  font-size: 32px;
+  font-weight: 500;
+}
+.navmenu{
+  position: absolute;
+  top: 40px;
+  right: 24px;
+}
+.navmenu ul li{
+  display: inline;
+  padding-left: 16px;
+}
+#mainhero{
+  background-color: lightgrey;
+  margin-top: 64px;
+}
+#mainhero img{
+  width: 60%;
+  padding: 32px 0px 32px 24px;
+}
+
+.mainherocta{
+  position: relative;
+  bottom: 300px;
+  display: inline-block;
+
+}
+.mainherocta h2, h3, button{
+  text-align: left;
+  color: #4d4d4d;
+
+}
+.mainherocta h2{
+  font-size: 50px;
+  font-weight: bolder;
+}
+.mainherocta h3{
+  font-size: 30px;
+  font-weight: 300;
+}
+.mainherocta button{
+  color: #fff;
+  font-size: 20px;
+  font-weight: 500;
+  background-color: #4d4d4d;
+  border: transparent;
+  padding: 8px 120px;
+}
+#subhero{
+  padding-bottom: 32px;
+  max-width: 60%;
+
+}
+#subhero img{
+  width: 100%;
+  padding: 32px 24px 32px 24px;
+}
+.subherotext h2, h3, p{
+  color: #4d4d4d;
+  padding-left: 24px;
+}
+.subherotext p{
+  max-width: 60%;
+}
+.subbannerlist{
+width: 40%;
+padding-left: 24px;
+margin-left: 40px;
+margin-top: 32px;
+}
+.listtext img{
+  display: inline;
+  width: 40%;
+  max-height: auto;
+}
+.listtext h2, p{
+
+}
+.greyfeature{
+  background-color: lightgrey;
+}
+.startlearning{
+  background-color: lightgrey;
+}
+.startlearning h2{
+  color: dimgrey;
+  padding: 32px 0px;
+  font-size: 50px;
+}
+.learninggrid{
+  display: inline-flex;
+}
+.minigrid{
+  background-color: #fff;
+  width: 400px;
+  margin: 32px 32px 32px 72px;
+  text-align: left;
+}
+.minigrid img{
+  width: 400px;
+}
+.minigrid h3, p{
+  padding-right: 16px;
+}
+.thesisexhibit{
+
+}
+.thesisexhibit h2{
+  text-align: center;
+  font-size: 50px;
+  color: dimgrey;
+}
+.video{
+  width: 60%;
+}
+.video video{
+  width: 60%;
+  margin-left: 24px;
+  margin-bottom: 24px;
+}
+.exibitgridminigrid{
+  display: inline;
+}
